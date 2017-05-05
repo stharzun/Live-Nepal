@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Live Nepal</string>
+    <string name="drawer_close">drawer close value</string>
+    <string name="drawer_open">drawer open value</string>
+    <string name="search_hint">search me</string>
+    <string name="app_label">search</string>
+    <string name="search">Search</string>
+
+    <string-array name="images_ids">
+        <item>@drawable/images1</item>
+        <item>@drawable/images2</item>
+        <item>@drawable/images3</item>
+        <item>@drawable/images4</item>
+        <item>@drawable/images5</item>
+    </string-array>
+
+    <string-array name="video_title">
+        <item>Hamro Nepal 1</item>
+        <item>Hamro Nepal 2</item>
+        <item>Hamro Nepal 3</item>
+        <item>Hamro Nepal 4</item>
+        <item>Hamro Nepal 5</item>
+    </string-array>
+</resources>
